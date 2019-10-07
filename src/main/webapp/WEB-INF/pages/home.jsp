@@ -27,7 +27,7 @@
 		</c:forEach>
 		</table>
 		<h4>
-			New Employee Register <a href="add">here</a>
+			Ajouter un nouveau employee <a href="add">here</a>
 		</h4>
 		</div>
 </body>
