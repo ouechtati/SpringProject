@@ -27,7 +27,7 @@
 		</c:forEach>
 		</table>
 		<h4>
-			Ajouter un nouveau employee <a href="add">here</a>
+			Ajouter un nouveau employee <a href="add">Ajouter</a>
 		</h4>
 		</div>
 </body>
