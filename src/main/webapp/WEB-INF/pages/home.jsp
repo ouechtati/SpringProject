@@ -9,12 +9,12 @@
 </head>
 <body>
 	<div align="center">
-		<h1>Employee List</h1>
+		<h1>Liste d'employee</h1>
 		
 		<table border="1">
-		<th>Name</th>
-		<th>tel</th>
-		<th>adress</th>
+		<th>Nom</th>
+		<th>telephone</th>
+		<th>adresse</th>
 		<th>Action</th>
 		<c:forEach var="emp" items="${listEmploye}">
 		<tr>

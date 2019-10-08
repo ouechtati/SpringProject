@@ -11,11 +11,11 @@
 <form:form action="save" method="post" modelAttribute="emp" >
 
 <form:hidden path="id"/>
-Name
+Nom
 <form:input path="name"/>
-Tel
+Telephone
 <form:input path="tel"/>
-Adress
+Adresse
 <form:input path="adress"/>
 <input type="submit" value="Save"/>
 </form:form>
