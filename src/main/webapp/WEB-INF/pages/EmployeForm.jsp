@@ -10,6 +10,7 @@
 <body>
 <form:form action="save" method="post" modelAttribute="emp" >
 
+
 <form:hidden path="id"/>
 Nom
 <form:input path="name"/>
