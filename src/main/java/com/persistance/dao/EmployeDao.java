@@ -15,8 +15,8 @@ import com.persistance.model.Employe;
 @Repository
 public class EmployeDao implements IEmployeDao {
 	
-	@Autowired
-	SessionFactory sessionFactory;
+	//@Autowired
+	//SessionFactory sessionFactory;
 
 	public SessionFactory getSessionFactory() {
 		return sessionFactory;
